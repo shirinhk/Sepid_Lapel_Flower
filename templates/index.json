@@ -1,0 +1,703 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Take Your Look To The Next Level",
+            "heading_size": "large"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Wardrobe Essential Luxury Men Accessories",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "New Collection",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_image_2.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Canadian Luxurious Men's Accessories",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 0
+      }
+    },
+    "164689050658810557": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "1646890505cb74f6d0-0": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1646890505cb74f6d0-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "1646890505cb74f6d0-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646890505cb74f6d0-0",
+        "1646890505cb74f6d0-1",
+        "1646890505cb74f6d0-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1646890748330dc292": {
+      "type": "image-with-text",
+      "blocks": {
+        "16468907487ee08ec3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Be Cool and Ready",
+            "heading_size": "h2"
+          }
+        },
+        "16468907487ee08ec3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16468907487ee08ec3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find Your Own Style",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "16468907487ee08ec3-0",
+        "16468907487ee08ec3-1",
+        "16468907487ee08ec3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/026A5179.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "collection": "all",
+        "products_to_show": 8,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "16468912722949b0c2": {
+      "type": "image-with-text",
+      "blocks": {
+        "1646891272aca0e896-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Best Accent",
+            "heading_size": "h1"
+          }
+        },
+        "1646891272aca0e896-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1646891272aca0e896-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Find Your Pocket Square",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646891272aca0e896-0",
+        "1646891272aca0e896-1",
+        "1646891272aca0e896-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/026A5242.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "1646884509d90dbdad": {
+      "type": "featured-product",
+      "blocks": {
+        "1646884509ace572aa-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1646884509ace572aa-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1646884509ace572aa-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1646884509ace572aa-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1646884509ace572aa-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1646884509ace572aa-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1646884509ace572aa-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1646884509ace572aa-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "5e625cbb-f846-434a-9f73-e3817a083016": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646884509ace572aa-0",
+        "1646884509ace572aa-1",
+        "1646884509ace572aa-2",
+        "1646884509ace572aa-3",
+        "1646884509ace572aa-4",
+        "1646884509ace572aa-5",
+        "1646884509ace572aa-6",
+        "1646884509ace572aa-7",
+        "5e625cbb-f846-434a-9f73-e3817a083016"
+      ],
+      "settings": {
+        "product": "red-night-flower-lapel",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "1646891851ac7a9c24": {
+      "type": "image-with-text",
+      "blocks": {
+        "1646891851a8f01611-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mix and Match",
+            "heading_size": "h1"
+          }
+        },
+        "1646891851a8f01611-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1646891851a8f01611-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find Your Pocket Square",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646891851a8f01611-0",
+        "1646891851a8f01611-1",
+        "1646891851a8f01611-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_image.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "summer-lapel-collection"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "all-day-sophisticated-flower-lapel",
+            "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "all-day-collection"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "Complete your wardrobe",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16468902657a4cfae9": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "164689026591f1e4d4-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "164689026591f1e4d4-1": {
+          "type": "text",
+          "settings": {
+            "text": "Find Your Very Own Style",
+            "text_style": "subtitle"
+          }
+        },
+        "164689026591f1e4d4-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164689026591f1e4d4-0",
+        "164689026591f1e4d4-1",
+        "164689026591f1e4d4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/026A5127.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "164688953845b6d36d": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "16468895388a82d295-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16468895388a82d295-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16468895388a82d295-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16468895388a82d295-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16468895388a82d295-0",
+        "16468895388a82d295-1",
+        "16468895388a82d295-2",
+        "16468895388a82d295-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1646890174a7b8f1e2": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16468906059bd9f2b2": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1646891115bda3ad56": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1646891115482caa20-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1646891115482caa20-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1646891115482caa20-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646891115482caa20-0",
+        "1646891115482caa20-1",
+        "1646891115482caa20-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "164689113352f5357a": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1646891133ad35038a-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "medium",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1646891133ad35038a-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "medium",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1646891133ad35038a-0",
+        "1646891133ad35038a-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "164689050658810557",
+    "1646890748330dc292",
+    "featured_collection",
+    "16468912722949b0c2",
+    "1646884509d90dbdad",
+    "1646891851ac7a9c24",
+    "collage",
+    "16468902657a4cfae9",
+    "video",
+    "multicolumn",
+    "164688953845b6d36d",
+    "1646890174a7b8f1e2",
+    "16468906059bd9f2b2",
+    "1646891115bda3ad56",
+    "164689113352f5357a"
+  ]
+}
