@@ -6,15 +6,11 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-  
-    "shirin": {
-      "type": "shirin-excersize"
-      }
+    }
+
     },
   
   "order": [
-    "main",
-    "shirin"
+    "main"
   ]
 }
