@@ -1,0 +1,50 @@
+<style>
+
+</style>
+
+
+
+
+
+    {% if  section.settings.heading != blank %}
+        <h2>{{section.setting.heading}}</h2>
+    {% endif %}
+
+    <ul>
+        {% for product in collections[collection.settings.collection].products %}
+            <li>
+                <img src="{{ product.featured_image | image_url: width: 200}}" alt="" loading="lazy" width="" height="s">
+                <h3>{{product.title}}</h3>
+                <div>
+                    <del>{{product.compare_at_price | money}}</del> 
+                    - 
+                    {{product.price | money_without_currency }}
+                </div>
+                <a href="#" class="button" {% if product.available %} disabled {%endif%}>
+                    {{'general.shop_now.shop_now'| t}}
+                </a>    
+            </li> 
+        {% endfor %}
+    </ul>
+
+
+{% schema %}
+{
+    "name": "Product List",
+    "tag": "section",
+    "class": "product-list",
+    "settings": [
+    {
+        "type": "text",
+        "id": "heading",
+        "label": "Label",
+        "default": "Product List"
+    },
+    {
+        "type": "collection",
+        "id": "collection",
+        "label": "Collection"
+    }
+    ]
+}
+{% endschema %}
