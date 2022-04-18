@@ -6,11 +6,20 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    }
-
     },
-  
+    "165025101465acb10b": {
+      "type": "shirin-excersize",
+      "settings": {
+        "background_image": "shopify:\/\/shop_images\/groom-g454c2090e_1920.jpg",
+        "heading": "Choose to be your Best",
+        "content": "<p>Lapel flowers are the best choice to be unique.<\/p>",
+        "button_link": "shopify:\/\/collections\/all-day-collection",
+        "button_text": "Learn More"
+      }
+    }
+  },
   "order": [
-    "main"
+    "main",
+    "165025101465acb10b"
   ]
 }
