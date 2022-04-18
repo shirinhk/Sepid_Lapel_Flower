@@ -1,8 +1,5 @@
 /* Color custom properties */
-.announcement-bar {
-  background-color: bisque !important;
-  color: rgb(141, 79, 3) !important;
-}
+
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
