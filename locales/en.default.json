@@ -388,7 +388,8 @@
       "last_name": "Last name",
       "email": "Email",
       "password": "Password",
-      "submit": "Create"
+      "submit": "Create",
+      "email_consent":"Subscribe to email marketing, you can unsubscribe any time!"
     },
     "reset_password": {
       "title": "Reset account password",
