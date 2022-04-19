@@ -199,7 +199,8 @@
       "search_for": "Search for “{{ terms }}”"
     },
     "cart": {
-      "cart": "Cart"
+      "cart": "Cart",
+      "gift_wrap": "I would like a gift wrap for my purchase"
     },
     "contact": {
       "form": {
