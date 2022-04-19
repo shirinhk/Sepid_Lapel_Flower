@@ -1,6 +1,7 @@
 {
   "current": {
     "page_width": 1000,
+    "card_style": "standard",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
     "checkout_accent_color": "#334FB4",
     "checkout_button_color": "#ae0504",
