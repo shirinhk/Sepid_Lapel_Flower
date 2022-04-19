@@ -6,11 +6,17 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "product-list": {
+      "type": "product-list",
+      "settings": {
+      }
     }
 
     },
   
   "order": [
-    "main"
+    "main",
+    "product-list"
   ]
 }
