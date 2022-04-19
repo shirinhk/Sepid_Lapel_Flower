@@ -220,6 +220,12 @@
                 {{ form | payment_terms }}
               {%- endform -%}
             </div>
+
+            <a href="{{product.metafields.files.file_downloader | file_url }}" download target="_blank">
+              {{'products.product.pdf_file'}}
+            </a>
+
+
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte">

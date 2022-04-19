@@ -106,6 +106,7 @@
       "description": "Description",
       "on_sale": "Sale",
       "product_variants": "Product variants",
+      "pdf_file":"Download PDF",
       "media": {
         "gallery_viewer": "Gallery Viewer",
         "load_image": "Load image {{ index }} in gallery view",
