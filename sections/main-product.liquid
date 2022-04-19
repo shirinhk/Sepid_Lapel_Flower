@@ -221,10 +221,11 @@
               {%- endform -%}
             </div>
 
-            <a href="{{product.metafields.files.file_downloader | file_url }}" download target="_blank">
-              {{'products.product.pdf_file'}}
-            </a>
-
+            {% if product.metafields.files.file_downloader != blank %}
+              <a href="{{product.metafields.files.file_downloader | file_url }}" download target="_blank">
+                {{'products.product.pdf_file'}}
+              </a> 
+            {% endif %}
 
           {%- when 'description' -%}
             {%- if product.description != blank -%}
