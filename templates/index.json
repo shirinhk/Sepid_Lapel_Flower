@@ -256,6 +256,11 @@
             "picker_type": "button"
           }
         },
+        "6e156b9c-c886-48e6-8474-89c5a933fe1d": {
+          "type": "rating",
+          "settings": {
+          }
+        },
         "1646884509ace572aa-5": {
           "type": "quantity_selector",
           "settings": {
@@ -286,6 +291,7 @@
         "1646884509ace572aa-2",
         "1646884509ace572aa-3",
         "1646884509ace572aa-4",
+        "6e156b9c-c886-48e6-8474-89c5a933fe1d",
         "1646884509ace572aa-5",
         "1646884509ace572aa-6",
         "1646884509ace572aa-7",
