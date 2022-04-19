@@ -10,11 +10,11 @@
     "product-list": {
       "type": "product-list",
       "settings": {
+        "heading": "Product List",
+        "collection": "mix-and-match"
       }
     }
-
-    },
-  
+  },
   "order": [
     "main",
     "product-list"
