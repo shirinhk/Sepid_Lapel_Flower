@@ -25,11 +25,45 @@
         "button_link": "shopify:\/\/collections\/round-pocket-square",
         "button_text": "Learn More"
       }
+    },
+    "1650352751b69b8d20": {
+      "type": "newsletter",
+      "blocks": {
+        "1650352751f5ecfcf3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "1650352751f5ecfcf3-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1650352751f5ecfcf3-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1650352751f5ecfcf3-0",
+        "1650352751f5ecfcf3-1",
+        "1650352751f5ecfcf3-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "form",
-    "165025139070e9a6d4"
+    "165025139070e9a6d4",
+    "1650352751b69b8d20"
   ]
 }
