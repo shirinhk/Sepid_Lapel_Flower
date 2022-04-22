@@ -46,7 +46,7 @@
                     <del>{{product.compare_at_price | money}}</del>     
                     {{product.price | money_with_currency }}
                     <div>   
-                        <a href="#" class="button" {% if product.available %} disabled {%endif%}>
+                        <a href="{{product.url}}" class="button" {% if product.available %} disabled {%endif%}>
                             {{'general.shop_now.shop_now'| t}}
                         </a> 
                     </div>   
