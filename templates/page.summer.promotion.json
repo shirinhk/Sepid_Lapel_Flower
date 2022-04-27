@@ -54,10 +54,18 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "165107407644507cc0": {
+      "type": "featured-text",
+      "settings": {
+        "section_title": "Talk about your brand",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+      }
     }
   },
   "order": [
     "main",
-    "16510733305c5d0ca3"
+    "16510733305c5d0ca3",
+    "165107407644507cc0"
   ]
 }
