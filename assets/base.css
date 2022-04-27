@@ -91,12 +91,9 @@
   transition: all 0.3s;
 }
 
-.button--secondary:hover {
+.button--secondary:hover::before {
   color: #fff !important;
   background-color: #920610 !important;
-}
-
-.button--secondary:hover::before {
   transform: scale(0.5, 0.5);
 }
 
@@ -110,7 +107,7 @@
   z-index: 1;
   opacity: 0;
   transition: all 0.3s;
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.6);
   transform: scale(1.2, 1.2);
 }
 .button--secondary::after {
