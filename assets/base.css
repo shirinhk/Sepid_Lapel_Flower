@@ -88,12 +88,12 @@
   height: 100%;
   z-index: 1;
   background-color: rgba(255, 255, 255, 0.6);
+  transition: all 0.3s;
 }
 
 .button--secondary:hover {
   color: #fff !important;
   background-color: #920610 !important;
-  transition: all 0.3s;
 }
 
 .button--secondary:hover::before {
