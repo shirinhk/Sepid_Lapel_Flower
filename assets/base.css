@@ -15,11 +15,14 @@
 }
 
 @keyframes changecolor {
-  from {
+  0% {
     background-color: #920610;
   }
-  to {
-    background-color: lightgray;
+  50% {
+    background-color: #fff;
+  }
+  100% {
+    background-color: #920610;
   }
 }
 
