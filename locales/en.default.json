@@ -418,5 +418,9 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
+  },
+
+  "date_formats": {
+    "month_day_year": "%B %d, %Y"
   }
 }
