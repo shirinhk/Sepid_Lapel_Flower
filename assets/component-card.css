@@ -14,28 +14,6 @@
   height: 100%;
 }
 
-.jump {
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  transform-origin: bottom;
-}
-
-.bounce:hover {
-  animation-name: bounce;
-  animation-timing-function: ease;
-}
-@keyframes bounce {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-100px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
-
 .card--card,
 .card--standard .card__inner {
   border-radius: var(--card-corner-radius);
@@ -68,6 +46,28 @@
     var(--card-corner-radius) - var(--card-border-width) -
       var(--card-image-padding)
   );
+}
+
+.jump {
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  transform-origin: bottom;
+}
+
+.bounce:hover {
+  animation-name: bounce;
+  animation-timing-function: ease;
+}
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-100px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 
 .card--card .card__inner .card__media {
