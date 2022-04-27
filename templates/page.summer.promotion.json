@@ -79,6 +79,39 @@
         "blog_show_date": true,
         "show_view_all": false
       }
+    },
+    "1651076252166c868e": {
+      "type": "newsletter",
+      "blocks": {
+        "16510762528cce8874-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "16510762528cce8874-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers. You can unsubscribe any time!<\/p>"
+          }
+        },
+        "16510762528cce8874-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16510762528cce8874-0",
+        "16510762528cce8874-1",
+        "16510762528cce8874-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -86,6 +119,7 @@
     "16510733305c5d0ca3",
     "165107407644507cc0",
     "1651074432dcaef1f0",
-    "16510759509fd384a3"
+    "16510759509fd384a3",
+    "1651076252166c868e"
   ]
 }
