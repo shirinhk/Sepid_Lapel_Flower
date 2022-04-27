@@ -61,11 +61,19 @@
         "section_title": "Talk about your brand",
         "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
       }
+    },
+    "1651074432dcaef1f0": {
+      "type": "product-list",
+      "settings": {
+        "heading": "Product List",
+        "collection": ""
+      }
     }
   },
   "order": [
     "main",
     "16510733305c5d0ca3",
-    "165107407644507cc0"
+    "165107407644507cc0",
+    "1651074432dcaef1f0"
   ]
 }
