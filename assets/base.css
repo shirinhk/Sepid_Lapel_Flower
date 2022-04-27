@@ -8,9 +8,19 @@
 }
 
 .color-background-2 {
-  --color-foreground: var(--color-base-text);
+  /* --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-2);
-  --gradient-background: var(--gradient-base-background-2);
+  --gradient-background: var(--gradient-base-background-2); */
+  animation: changecolor 5s infinite;
+}
+
+@keyframes changecolor {
+  from {
+    background-color: #920610;
+  }
+  to {
+    background-color: lightgray;
+  }
 }
 
 .color-inverse {
