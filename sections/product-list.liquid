@@ -1,7 +1,6 @@
 <style>
     .page-width {
          margin: auto;
-         width:80%;
     }
 
     .product-list{
@@ -33,6 +32,15 @@
     .product-list-item a{
         margin-top: 10px;
     }  
+    
+    @media (min-width: 650px) {
+  .product-list{
+  flex-direction:column;
+  } 
+  .product-list-item {
+    flex: 60%;
+  }
+}
 
 </style>
 
