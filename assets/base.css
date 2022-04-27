@@ -74,7 +74,7 @@
 }
 
 .button--secondary {
-  color: #000 !important;
+  color: #920610 !important;
   transition: all 0.5s;
   position: relative;
 }
@@ -92,11 +92,11 @@
 }
 
 .button--secondary:hover {
-  color: #920610 !important;
+  color: #fff !important;
 }
 
 .button--secondary:hover::before {
-  opacity: 0;
+  background-color: #000 !important;
   transform: scale(0.5, 0.5);
 }
 
