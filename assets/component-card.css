@@ -49,10 +49,10 @@
 }
 
 .jump {
-  transition: 0.3s;
+  transition: transform 250ms;
 }
 .jump:hover {
-  transform: translate(0, -10px);
+  transform: translateY(-10px);
 }
 
 .card--card .card__inner .card__media {
