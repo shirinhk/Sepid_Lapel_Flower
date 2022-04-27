@@ -93,10 +93,10 @@
 
 .button--secondary:hover {
   color: #fff !important;
+  background-color: #920610 !important;
 }
 
 .button--secondary:hover::before {
-  background-color: #000 !important;
   transform: scale(0.5, 0.5);
 }
 
