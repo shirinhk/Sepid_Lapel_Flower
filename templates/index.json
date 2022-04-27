@@ -178,6 +178,50 @@
         "padding_bottom": 8
       }
     },
+    "1646891851ac7a9c24": {
+      "type": "image-with-text",
+      "blocks": {
+        "1646891851a8f01611-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mix and Match",
+            "heading_size": "h1"
+          }
+        },
+        "1646891851a8f01611-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1646891851a8f01611-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find Your Pocket Square",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646891851a8f01611-0",
+        "1646891851a8f01611-1",
+        "1646891851a8f01611-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_image.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
     "16468912722949b0c2": {
       "type": "image-with-text",
       "blocks": {
@@ -305,50 +349,6 @@
         "enable_video_looping": false,
         "padding_top": 60,
         "padding_bottom": 20
-      }
-    },
-    "1646891851ac7a9c24": {
-      "type": "image-with-text",
-      "blocks": {
-        "1646891851a8f01611-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mix and Match",
-            "heading_size": "h1"
-          }
-        },
-        "1646891851a8f01611-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "1646891851a8f01611-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Find Your Pocket Square",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1646891851a8f01611-0",
-        "1646891851a8f01611-1",
-        "1646891851a8f01611-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/banner_image.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 80,
-        "padding_bottom": 36
       }
     },
     "collage": {
@@ -728,9 +728,9 @@
     "164689050658810557",
     "1646890748330dc292",
     "featured_collection",
+    "1646891851ac7a9c24",
     "16468912722949b0c2",
     "1646884509d90dbdad",
-    "1646891851ac7a9c24",
     "collage",
     "16468902657a4cfae9",
     "video",
