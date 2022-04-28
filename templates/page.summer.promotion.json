@@ -14,25 +14,26 @@
         "1651073330f96a80c8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Discover This Summer Opportunities",
             "heading_size": "medium"
           }
         },
         "1651073330f96a80c8-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "Discover This Summer Opportunities",
+            "text_style": "subtitle"
           }
         },
         "1651073330f96a80c8-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Summer Collection",
+            "button_link_1": "shopify:\/\/collections\/summer-lapel-collection",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "Summer Exclusive",
+            "button_link_2": "shopify:\/\/collections\/summer-exclusive",
             "button_style_secondary_2": false
           }
         }
@@ -58,7 +59,7 @@
     "165107407644507cc0": {
       "type": "featured-text",
       "settings": {
-        "section_title": "Talk about your brand",
+        "section_title": "Sepid Lapel Flower",
         "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
       }
     },
