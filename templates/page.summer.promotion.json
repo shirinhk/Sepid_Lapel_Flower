@@ -73,7 +73,7 @@
     "16510759509fd384a3": {
       "type": "featured-blogs",
       "settings": {
-        "title": "Blog posts",
+        "title": "Blogs",
         "blog": "news",
         "post_limit": 3,
         "blog_show_author": false,
