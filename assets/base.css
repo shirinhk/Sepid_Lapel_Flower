@@ -2884,8 +2884,8 @@ details-disclosure > details {
 .blog_center {
   margin: 0 auto;
   text-align: center;
-  background-color: #e6e3e3;
+  background-color: #ecedef;
   padding:20px;
-  text-decoration:none;
+  list-style-type: none;
 }
 
