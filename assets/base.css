@@ -2884,6 +2884,7 @@ details-disclosure > details {
 .blog_center {
   margin: 0 auto;
   text-align: center;
-  background-color: lightgray;
+  background-color: #d5cfd0;
+  padding:20px;
 }
 
