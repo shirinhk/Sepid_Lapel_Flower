@@ -1,11 +1,11 @@
-<div class="page-width">
+<div class="page-width blog_center">
 <h1>{{ section.settings.title | escape }}</h1>
  
 
 {%- assign blog = blogs[section.settings.blog] -%}
 
 {%- if blog.articles_count > 0 -%}
-  <ul class="blog_center">
+  <ul>
 
     {%- for article in blog.articles limit: section.settings.post_limit -%}
       <li>
