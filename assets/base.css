@@ -2879,3 +2879,11 @@ details-disclosure > details {
 .jump:hover {
   transform: translateY(-10px);
 }
+
+
+.blog_center {
+  margin: 0 auto;
+  text-align: center;
+  background-color: lightgray;
+}
+
